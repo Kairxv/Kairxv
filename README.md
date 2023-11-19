@@ -1,3 +1,5 @@
-- 👋 Hi, I’m Kairav!
-- 👀 I’m interested in tech.
-- 🌱 I’m currently learning nothing lol
+- 👋 Hi, I’m @Kairxv
+- 👀 I’m interested in music and tech
+- 🌱 I’m currently learning ```hello world```
+- 📫 How to reach me idk!!
+- ✨ Ineffable i'd say..
