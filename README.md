@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Lav!
+- 👋 Hi, I’m Kairav!
 - 👀 I’m interested in tech.
 - 🌱 I’m currently learning nothing lol
